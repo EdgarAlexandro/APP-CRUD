@@ -1,0 +1,71 @@
+.mainContainer {
+  padding: 1rem;
+}
+
+.btn {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #800040;
+  color: white;
+  border: 1px solid #800040;
+  margin: 0 1rem;
+}
+
+.btn:hover {
+  background-color: #9c1458;
+  border-color: #9c1458;
+}
+
+.btnEliminar {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #800040;
+  color: white;
+  border: 1px solid #800040;
+  margin: 0 1rem;
+}
+
+.btnEliminar:hover {
+  background-color: #9c1458;
+  border-color: #9c1458;
+}
+.btnTerminar {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #800040;
+  color: white;
+  border: 1px solid #800040;
+  margin: 0 1rem;
+}
+
+.btnTerminar:hover {
+  background-color: #9c1458;
+  border-color: #9c1458;
+}
+.btnModificar {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #800040;
+  color: white;
+  border: 1px solid #800040;
+  margin: 0 1rem;
+}
+
+.btnModificar:hover {
+  background-color: #9c1458;
+  border-color: #9c1458;
+}
+
+.formContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
