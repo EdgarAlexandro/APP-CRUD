@@ -6,3 +6,4 @@ node_modules
 .env
 /.pgdata
 /tmp
+package-lock.json
